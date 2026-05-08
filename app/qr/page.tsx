@@ -7,14 +7,14 @@ export default function QRPage() {
         <div className="flex items-center justify-around">
           <Image
             src="/logo.png"
-            width={180}
-            height={180}
+            width={100}
+            height={100}
             alt="Best Medical Malaysia Logo"
           />
           <Image
             src="/bestLogo.png"
-            width={350}
-            height={350}
+            width={250}
+            height={250}
             alt="Best Medical Malaysia Logo"
           />
         </div>
