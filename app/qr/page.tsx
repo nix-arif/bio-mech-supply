@@ -2,7 +2,7 @@ import React from "react";
 
 export default function QRPage() {
   return (
-    <div className="flex items-center justify-between h-screen mx-auto">
+    <div className="flex items-center justify-between h-screen mx-auto p-10">
       <div>
         <h1>Best Medical Malaysia</h1>
         <p>
