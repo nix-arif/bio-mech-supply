@@ -2,9 +2,9 @@ import Image from "next/image";
 
 export default function QRPage() {
   return (
-    <div className="flex items-center justify-between h-screen mx-auto p-10">
+    <div className="flex items-center justify-between h-screen mx-auto p-10 overflow-hidden">
       <div>
-        <div className="flex items-center justify-around">
+        <div className="flex items-center justify-around overflow-hidden">
           <Image
             src="/logo.png"
             width={100}
